@@ -13,7 +13,7 @@
     ✨ I love to play different types of outdoor games.
 <td >
  <h3>This is my Linked In Profile </h3>
-    <a href="https://www.linkedin.com/in/smb-lemon/"><img src="https://media.licdn.com/dms/image/v2/D5603AQHRO2lwJCdL3g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724695665495?e=1741824000&v=beta&t=9eotTfSG1eRsYHOotFuU_8VJ6hqq14FYtNq9zqlwJ-o" width="400" alt="lemon's picture"/></a>
+    <a href="https://www.linkedin.com/in/smb-lemon/"><img src="https://media.licdn.com/dms/image/v2/D5603AQHRO2lwJCdL3g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724695665495?e=1741824000&v=beta&t=9eotTfSG1eRsYHOotFuU_8VJ6hqq14FYtNq9zqlwJ-o" width="400" alt="smb-lemon"/></a>
   </td>
 </tr>
 </table>
